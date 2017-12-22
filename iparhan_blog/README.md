@@ -1,7 +1,6 @@
-# Registration and Login Example with Spring MVC 4, Spring Security, Spring Data JPA, XML Configuration, Maven, JSP, and MySQL.
+# Registration and Login Example with Spring MVC 4, Spring Security, Spring Data JPA, XML Configuration, Maven, html, and MySQL.
 
-## Guide
-https://hellokoding.com/registration-and-login-example-with-spring-xml-configuration-maven-jsp-and-mysql/
+
 
 ## Prerequisites
 - JDK 1.8 or later
@@ -13,8 +12,7 @@ https://hellokoding.com/registration-and-login-example-with-spring-xml-configura
 - Spring Security
 - Spring Data JPA
 - Maven
-- JSP
+- HTML
 - MySQL
 
-## Run
-```mvn jetty:run```
+Author : Iparhan
